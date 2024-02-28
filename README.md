@@ -1,6 +1,14 @@
 # Ball Simulation
 
 A simple ball simulation program implemented in C++ using SFML.
+Red means balls going fast blue is slow.
+
+## Video Demonstration
+
+Check out the video demonstration of the project on YouTube:
+
+[![Project Demo](https://img.youtube.com/vi/HHiKBfknxA0/0.jpg)](https://youtu.be/HHiKBfknxA0)
+
 
 ## Description
 
