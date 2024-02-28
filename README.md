@@ -28,11 +28,4 @@ Each ball is subject to gravity, friction, and collisions with walls and other b
 
 ## Code Explanation
 
-### Ball Structure
-
-```cpp
-struct Ball {
-    sf::Vector2f position;
-    sf::Vector2f velocity;
-    sf::Color color;
-};
+[Read it yourself it's quite short](https://matthias-research.github.io/pages/publications/sca03.pdf)https://matthias-research.github.io/pages/publications/sca03.pdf
