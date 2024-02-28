@@ -4,7 +4,7 @@ A simple ball simulation program implemented in C++ using SFML.
 
 ## Description
 
-This program simulates the behavior of multiple balls moving within a window. Each ball is subject to gravity, friction, and collisions with walls and other balls. Additionally, a disturbance feature allows the user to repel the balls by holding the mouse button.
+Each ball is subject to gravity, friction, and collisions with walls and other balls. Additionally, a disturbance feature allows the user to repel the balls by holding the mouse button. Supposed to be a fluid sim.
 
 ## Features
 
