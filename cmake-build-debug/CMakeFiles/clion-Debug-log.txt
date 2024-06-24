@@ -1,5 +1,5 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -DOpenCV_DIR=/usr/local/opt/opencv@2/share/OpenCV -G Ninja -S /Users/dimitri.chrysafis/CLionProjects/newSim -B /Users/dimitri.chrysafis/CLionProjects/newSim/cmake-build-debug
--- Found SFML 2.6.1 in /usr/local/lib/cmake/SFML
--- Configuring done (1.2s)
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/dimitrichrysafis/CLionProjects/Fourier -B /Users/dimitrichrysafis/CLionProjects/Fourier/cmake-build-debug
+-- Found SFML 2.6.1 in /opt/homebrew/lib/cmake/SFML
+-- Configuring done (0.0s)
 -- Generating done (0.0s)
--- Build files have been written to: /Users/dimitri.chrysafis/CLionProjects/newSim/cmake-build-debug
+-- Build files have been written to: /Users/dimitrichrysafis/CLionProjects/Fourier/cmake-build-debug
