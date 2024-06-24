@@ -1,3 +1,4 @@
+# IMPORTANT- UPDATED AS OF JUNE 24 PROJECT WAS CREATED IN FEBUARY I ADDED MAJOR OPTIMIZATIONS YOU CAN NOW RUN 10,000 BALLS
 # Ball Simulation
 
 A simple ball simulation program implemented in C++ using SFML.
