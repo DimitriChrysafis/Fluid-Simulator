@@ -5,7 +5,7 @@
 #include <random>
 #include <cmath>
 #include <unordered_map>
-
+ 
 int main() {
     sf::RenderWindow window(sf::VideoMode(WINDOW_WIDTH, WINDOW_HEIGHT), "Ball Simulation", sf::Style::Default);
     window.setFramerateLimit(60);
