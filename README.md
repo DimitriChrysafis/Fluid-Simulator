@@ -1,5 +1,11 @@
-# IMPORTANT- UPDATED AS OF JUNE 24 PROJECT WAS CREATED IN FEBUARY I ADDED MAJOR OPTIMIZATIONS YOU CAN NOW RUN 10,000 BALLS
-# Ball Simulation
+# Fluid Simulation
+
+## MORE IMPORTANT: rewrite with DEs
+
+<div style="display: flex; justify-content: center;">
+    <img src="images/video.gif" width="400">
+      <img src="images/1.png" width="400">
+</div>
 
 A simple ball simulation program implemented in C++ using SFML.
 Red means balls going fast blue is slow.
