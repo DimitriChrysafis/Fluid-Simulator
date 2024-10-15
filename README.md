@@ -3,8 +3,8 @@
 ## MORE IMPORTANT: rewrite with DEs
 
 <div style="display: flex; justify-content: center;">
-    <img src="images/video.gif" width="400">
-      <img src="images/1.png" width="400">
+    <img src="images/video.gif" width="200">
+      <img src="images/1.png" width="300">
 </div>
 
 A simple ball simulation program implemented in C++ using SFML.
