@@ -7,6 +7,10 @@
     <img src="images/video.gif" width="1000">
 </div>
 
+<div style="display: flex; justify-content: center;">
+    <img src="pde.gif" width="1000">
+</div>
+
 
 <div style="display: flex; justify-content: center;">
       <img src="images/1.png" width="300">
