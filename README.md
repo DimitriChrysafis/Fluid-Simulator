@@ -2,8 +2,8 @@
 
 [![Watch the video](https://img.youtube.com/vi/IHNFb7Ru-Q8/0.jpg)](https://youtu.be/IHNFb7Ru-Q8)
 
-# Web Demo: https://dimitrichrysafis.github.io/media/post8/index.html
-Code avaliable on github static pag
+## Web Demo: https://dimitrichrysafis.github.io/media/post8/index.html
+Code avaliable on github static page
 
 Diffeq rewrite:
 <div style="display: flex; justify-content: center;">
@@ -22,7 +22,6 @@ Diffeq rewrite:
 A simple ball simulation program implemented in C++ using SFML.
 Red means balls going fast blue is slow.
 
-## Video Demonstration
 ## NEW DEMO JUNE 24 https://www.youtube.com/watch?v=R2yFt4YDVbU
 
 Check out the video demonstration of the project on YouTube: (click the image)
