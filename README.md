@@ -1,6 +1,6 @@
 # Fluid Simulation
 
-<iframe width="100%" height="500" src="[https://www.youtube.com/embed/oEo6cb6Z4Oc](https://www.youtube.com/watch?v=IHNFb7Ru-Q8)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+[![Watch the video](https://img.youtube.com/vi/IHNFb7Ru-Q8/0.jpg)](https://youtu.be/IHNFb7Ru-Q8)
 
 # Web Demo: ![CLICK HERE ](https://dimitrichrysafis.github.io/media/post8/index.html)
 Code avaliable on github static pag
