@@ -2,7 +2,7 @@
 
 [![Watch the video](https://img.youtube.com/vi/IHNFb7Ru-Q8/0.jpg)](https://youtu.be/IHNFb7Ru-Q8)
 
-# Web Demo: ![CLICK HERE ](https://dimitrichrysafis.github.io/media/post8/index.html)
+# Web Demo: https://dimitrichrysafis.github.io/media/post8/index.html
 Code avaliable on github static pag
 
 Diffeq rewrite:
