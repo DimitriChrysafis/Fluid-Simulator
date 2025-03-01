@@ -1,6 +1,9 @@
 # Fluid Simulation
 
-[![Watch the video](https://img.youtube.com/vi/IHNFb7Ru-Q8/0.jpg)](https://youtu.be/IHNFb7Ru-Q8)
+<a href="https://youtu.be/IHNFb7Ru-Q8">
+  <img src="https://img.youtube.com/vi/IHNFb7Ru-Q8/0.jpg" alt="Watch the video" style="width: 500px; height: auto;">
+</a>
+
 
 ## Web Demo: https://dimitrichrysafis.github.io/media/post8/index.html
 Code avaliable on github static page
