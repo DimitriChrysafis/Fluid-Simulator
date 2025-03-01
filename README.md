@@ -1,7 +1,7 @@
 # Fluid Simulation
 
 <a href="https://youtu.be/IHNFb7Ru-Q8">
-  <img src="https://img.youtube.com/vi/IHNFb7Ru-Q8/0.jpg" alt="Watch the video" style="width: 500px; height: auto;">
+  <img src="https://img.youtube.com/vi/IHNFb7Ru-Q8/0.jpg" alt="Watch the video" style="width: 1000px; height: auto;">
 </a>
 
 
