@@ -5,7 +5,7 @@
 </a>
 
 
-## Web Demo: https://dimitrichrysafis.github.io/media/post8/index.html
+
 Code avaliable on github static page
 
 Diffeq rewrite:
